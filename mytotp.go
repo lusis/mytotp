@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"crypto/scrypt"
+	"github.com/dchest/scrypt"
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/rand"
