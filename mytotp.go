@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"code.google.com/p/go.crypto/scrypt"
+	"crypto/scrypt"
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/rand"
